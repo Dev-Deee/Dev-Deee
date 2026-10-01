@@ -1,4 +1,4 @@
-## Oladayo Ajomole · `@Oladayo234`
+## Oladayo Ajomole · `@Dev-Deee`
 
 Software developer in training — building full-stack systems in Java, Python, JavaScript, React and Go.  
 Background in Audio-Visual Systems Engineering; now applying systems thinking to backend APIs and clean architecture.
@@ -44,9 +44,9 @@ Background in Audio-Visual Systems Engineering; now applying systems thinking to
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats-pi-red-68.vercel.app/api?username=Oladayo234&theme=dark&hide_border=true&hide_rank=true" width="250"/></td>
-    <td><img src="https://streak-stats.demolab.com?user=Oladayo234&theme=dark&hide_border=true" width="250"/></td>
-    <td><img src="https://github-readme-stats-pi-red-68.vercel.app/api/top-langs/?username=Oladayo234&theme=dark&hide_border=true&layout=compact&langs_count=6" width="250"/></td>
+    <td><img src="https://github-readme-stats-pi-red-68.vercel.app/api?username=Dev-Deee&theme=dark&hide_border=true&hide_rank=true" width="250"/></td>
+    <td><img src="https://streak-stats.demolab.com?user=Dev-Deee&theme=dark&hide_border=true" width="250"/></td>
+    <td><img src="https://github-readme-stats-pi-red-68.vercel.app/api/top-langs/?username=Dev-Deee&theme=dark&hide_border=true&layout=compact&langs_count=6" width="250"/></td>
   </tr>
 </table>
 
